@@ -1,0 +1,9 @@
+{
+	"name": "sql-connector",
+	"location": "westcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4d9d9b74-be40-4f7e-b769-3145990cac05",
+		"tenantId": "3e5b2df0-697c-46e2-a8cc-e6fc56c71e31"
+	}
+}
